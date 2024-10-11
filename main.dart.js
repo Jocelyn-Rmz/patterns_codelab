@@ -58180,7 +58180,7 @@ A.rt.prototype={}
 A.pa.prototype={}
 A.z0.prototype={
 S(a){var s=null,r=A.a6w(s,s,!0)
-return new A.qZ(new A.z1(new A.MR(B.ch.Gi('{\n  "metadata": {\n    "title": "My Document",\n    "modified": "2023-05-10"\n  },\n  "blocks": [\n    {\n      "type": "h1",\n      "text": "Chapter 1"\n    },\n    {\n      "type": "p",\n      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."\n    },\n    {\n      "type": "checkbox",\n      "checked": false,\n      "text": "Learn Dart 3"\n    }\n  ]\n}\n',s)),s),r,s)}}
+return new A.qZ(new A.z1(new A.MR(B.ch.Gi('{\n  "metadata": {\n    "title": "My Document",\n    "modified": "2023-05-10"\n  },\n  "blocks": [\n    {\n      "type": "h1",\n      "text": "Chapter 1"\n    },\n    {\n      "type": "p",\n      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."\n    },\n    {\n      "type": "checkbox",\n      "checked": true,\n      "text": "Learn Dart 3"\n    }\n  ]\n}\n',s)),s),r,s)}}
 A.z1.prototype={
 S(a){var s,r,q=null,p=this.c,o=p.ga0p(),n=A.aoH(o.b),m=p.Jl()
 p=A.LE(A.CW(o.a,q,q),q,q)
